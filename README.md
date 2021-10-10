@@ -3,7 +3,7 @@
 
 |    Date    | Session |   Theme    |                      Link                      |
 | :--------: | :-----: | :--------: | :--------------------------------------------: |
-| 2021-10-10 |    1️⃣    | Playground | https://velog.io/@mindyeoi/iOSSwift-Playground |
+| 2021-10-10 |    1️⃣    | Playground | [🔗](!https://velog.io/@mindyeoi/iOSSwift-Playground) |
 
 
 
