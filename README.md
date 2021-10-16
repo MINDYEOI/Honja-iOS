@@ -10,4 +10,5 @@
 | 2021-10-13 |    4️⃣    |                   Basic Data Type                    | [🔗](https://velog.io/@mindyeoi/iOSSwift-%EA%B8%B0%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85) |
 | 2021-10-14 |    5️⃣    |                 Any, AnyObject, nil                  | [🔗](https://velog.io/@mindyeoi/Swift-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85-Any-AnyObject-nil) |
 | 2021-10-15 |    6️⃣    |               Collection Type - Array                | [🔗](https://velog.io/@mindyeoi/Swift-%EC%BD%9C%EB%A0%89%EC%85%98-%ED%83%80%EC%9E%85-Array-Dictionary-Set) |
+| 2021-10-16 |    7️⃣    |             Collection Type - Dictionary             | [🔗](https://velog.io/@mindyeoi/Swift-Collection-Type-Dictionary) |
 
