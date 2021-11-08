@@ -12,4 +12,4 @@
 | 2021-10-15 |    6️⃣    |               Collection Type - Array                | [🔗](https://velog.io/@mindyeoi/Swift-%EC%BD%9C%EB%A0%89%EC%85%98-%ED%83%80%EC%9E%85-Array-Dictionary-Set) |
 | 2021-10-16 |    7️⃣    |             Collection Type - Dictionary             | [🔗](https://velog.io/@mindyeoi/Swift-Collection-Type-Dictionary) |
 | 2021-10-22 |    8️⃣    |                Collection Type - Set                 |  [🔗](https://velog.io/@mindyeoi/Swift-Collection-Type-Set)   |
-
+| 2021-11-08 |    9️⃣    |  Function - basic | [🔗](https://velog.io/@mindyeoi/Swift-%ED%95%A8%EC%88%98-Basic)|
